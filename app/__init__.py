@@ -1,0 +1,1 @@
+# SPIKE AI Backend - Main Application Package
